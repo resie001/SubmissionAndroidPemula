@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Submission</string>
+    <string name="photo">Photo</string>
+    <string name="province_name">Nama Provinsi</string>
+    <string name="tv_capital_name">Nama Ibukota</string>
+    <string name="read">Baca</string>
+    <string name="nama_provinsi">Nama Provinsi</string>
+    <string name="province">province</string>
+    <string name="nama_ibukota">Nama Ibukota</string>
+    <string name="capital">capital</string>
+    <string name="tanggal_jadi">Tanggal JAdi</string>
+    <string name="date">date</string>
+    <string name="desc">desc</string>
+    <string name="image_photo">image_photo</string>
+    <string name="profile">profile</string>
+    <string name="ade_resie_muchorobbi_setiawan">Ade Resie Muchorobbi Setiawan</string>
+    <string name="email">aderesie.m.s@gmail.com</string>
+</resources>
